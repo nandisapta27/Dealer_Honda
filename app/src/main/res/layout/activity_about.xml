@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/about"
+    tools:context="com.example.dealer_honda.About">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kontak Kami"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"/>
+
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/dealer"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Opsi layanan: Belanja di toko · Ambil di toko · Pesan antar
+"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jam:
+Rabu	07.30–16.00
+Kamis	07.30–16.00
+Jumat	07.30–16.00
+Sabtu	07.30–16.00
+Minggu
+(Hari Tahun Baru Masehi)
+07.30–16.00
+Jam buka dapat berbeda
+Senin	07.30–16.00
+Selasa	07.30–16.00"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dealer astra motor center semarang Jl. Gajahmada No.88, Bangunharjo, Kec.
+Semarang Tengah, Kota Semarang, Jawa Tengah 50139
+"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telepon: 0812-9960-0088
+"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"/>
+</LinearLayout>

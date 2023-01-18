@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dealer_honda">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MyAppTheme">
+
+        <activity android:name="com.example.dealer_honda.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.dealer_honda.activity.LoginActivity" />
+        <activity android:name="com.example.dealer_honda.activity.RegisterUserActivity" />
+        <activity android:name="com.example.dealer_honda.About" />
+        <activity android:name="com.example.dealer_honda.Bill" />
+        <activity android:name="com.example.dealer_honda.Chart" />
+        <activity android:name="com.example.dealer_honda.Checkout" />
+        <activity android:name="com.example.dealer_honda.Detail" />
+        <activity android:name="com.example.dealer_honda.Detail2" />
+        <activity android:name="com.example.dealer_honda.Detail3" />
+        <activity android:name="com.example.dealer_honda.Detail4" />
+        <activity android:name="com.example.dealer_honda.Detail5" />
+        <activity android:name="com.example.dealer_honda.Detail6" />
+        <activity android:name="com.example.dealer_honda.Detail7" />
+        <activity android:name="com.example.dealer_honda.Detail8" />
+        <activity android:name="com.example.dealer_honda.Detail9" />
+        <activity android:name="com.example.dealer_honda.Detail10" />
+        <activity android:name="com.example.dealer_honda.Detail11" />
+        <activity android:name="com.example.dealer_honda.Detail12" />
+        <activity android:name="com.example.dealer_honda.Detail13" />
+        <activity android:name="com.example.dealer_honda.Detail14" />
+        <activity android:name="com.example.dealer_honda.Detail15" />
+        <activity android:name="com.example.dealer_honda.Detail16" />
+        <activity android:name="com.example.dealer_honda.Detail17" />
+        <activity android:name="com.example.dealer_honda.Detail18" />
+        <activity android:name="com.example.dealer_honda.Detail19" />
+        <activity android:name="com.example.dealer_honda.Detail20" />
+        <activity android:name="com.example.dealer_honda.Profile" />
+        <activity android:name="com.example.dealer_honda.MainActivity" />
+        <activity android:name="com.example.dealer_honda.Galery" />
+        <activity android:name="com.example.dealer_honda.PembelianMotor" />
+        <activity android:name="com.example.dealer_honda.Billl" />
+        <activity android:name="com.example.dealer_honda.EditPembelian" />
+        <activity android:name="com.example.dealer_honda.DetailPembelian"></activity>
+    </application>
+
+</manifest>

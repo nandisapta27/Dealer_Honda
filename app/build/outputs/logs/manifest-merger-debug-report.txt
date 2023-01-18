@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\1baf750c7cfb2e572bb5d154d0253a38\transformed\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\67adc2e0388428b62bbeefc57b0ca4f1\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\Dell\.gradle\caches\transforms-3\8074337caacb689a98089b0333c72e8b\transformed\library-1.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\9db58ee3ce4ba263f21380f5d24d0674\transformed\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\196fc8a03f6b3968a7c177ff5751e8a7\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\3c841d712adb311d7c6a6e1b48df8881\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\2250081c8901db0fcc2d9577ac5f1701\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\642cf3e29e15283a0ac813899a04cbf1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\3a1d010179f5aa62fc1794e6d450b3de\transformed\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\c6de16b56a2f42b224ee588dc8ae64ff\transformed\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f2e210569f63683669641a18fa10471c\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c383ebe735f2e2d1fd53c6532f1e975c\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\5fa975974d956b9b3c8bd3bf53f05a21\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\4ecfb1250ce37dda189a89ded9c6a1d1\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:9:5-55:19
+	android:label
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:13:9-42
+activity#com.example.dealer_honda.SplashActivity
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:15:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.dealer_honda.activity.LoginActivity
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:22:9-84
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:22:19-81
+activity#com.example.dealer_honda.activity.RegisterUserActivity
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:23:9-91
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:23:19-88
+activity#com.example.dealer_honda.About
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:24:19-64
+activity#com.example.dealer_honda.Bill
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:25:9-66
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:25:19-63
+activity#com.example.dealer_honda.Chart
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:26:9-67
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:26:19-64
+activity#com.example.dealer_honda.Checkout
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:27:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:27:19-67
+activity#com.example.dealer_honda.Detail
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:28:9-68
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:28:19-65
+activity#com.example.dealer_honda.Detail2
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:29:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:29:19-66
+activity#com.example.dealer_honda.Detail3
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:30:19-66
+activity#com.example.dealer_honda.Detail4
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:31:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:31:19-66
+activity#com.example.dealer_honda.Detail5
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.example.dealer_honda.Detail6
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:33:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:33:19-66
+activity#com.example.dealer_honda.Detail7
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:34:19-66
+activity#com.example.dealer_honda.Detail8
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:35:19-66
+activity#com.example.dealer_honda.Detail9
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:36:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:36:19-66
+activity#com.example.dealer_honda.Detail10
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:37:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:37:19-67
+activity#com.example.dealer_honda.Detail11
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:38:19-67
+activity#com.example.dealer_honda.Detail12
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:39:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:39:19-67
+activity#com.example.dealer_honda.Detail13
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:40:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:40:19-67
+activity#com.example.dealer_honda.Detail14
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:41:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:41:19-67
+activity#com.example.dealer_honda.Detail15
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:42:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:42:19-67
+activity#com.example.dealer_honda.Detail16
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:43:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:43:19-67
+activity#com.example.dealer_honda.Detail17
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:44:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:44:19-67
+activity#com.example.dealer_honda.Detail18
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:45:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:45:19-67
+activity#com.example.dealer_honda.Detail19
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:46:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:46:19-67
+activity#com.example.dealer_honda.Detail20
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:47:9-70
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:47:19-67
+activity#com.example.dealer_honda.Profile
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:48:9-69
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:48:19-66
+activity#com.example.dealer_honda.MainActivity
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:49:9-74
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:49:19-71
+activity#com.example.dealer_honda.Galery
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:50:9-68
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:50:19-65
+activity#com.example.dealer_honda.PembelianMotor
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:51:9-76
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:51:19-73
+activity#com.example.dealer_honda.Billl
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:52:9-67
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:52:19-64
+activity#com.example.dealer_honda.EditPembelian
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:53:9-75
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:53:19-72
+activity#com.example.dealer_honda.DetailPembelian
+ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:54:9-86
+	android:name
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:54:19-74
+uses-sdk
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\1baf750c7cfb2e572bb5d154d0253a38\transformed\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\1baf750c7cfb2e572bb5d154d0253a38\transformed\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\67adc2e0388428b62bbeefc57b0ca4f1\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\67adc2e0388428b62bbeefc57b0ca4f1\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\Dell\.gradle\caches\transforms-3\8074337caacb689a98089b0333c72e8b\transformed\library-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\Dell\.gradle\caches\transforms-3\8074337caacb689a98089b0333c72e8b\transformed\library-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\9db58ee3ce4ba263f21380f5d24d0674\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\9db58ee3ce4ba263f21380f5d24d0674\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\196fc8a03f6b3968a7c177ff5751e8a7\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\196fc8a03f6b3968a7c177ff5751e8a7\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\3c841d712adb311d7c6a6e1b48df8881\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\3c841d712adb311d7c6a6e1b48df8881\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\2250081c8901db0fcc2d9577ac5f1701\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\2250081c8901db0fcc2d9577ac5f1701\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\642cf3e29e15283a0ac813899a04cbf1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\642cf3e29e15283a0ac813899a04cbf1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\3a1d010179f5aa62fc1794e6d450b3de\transformed\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\3a1d010179f5aa62fc1794e6d450b3de\transformed\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\c6de16b56a2f42b224ee588dc8ae64ff\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\c6de16b56a2f42b224ee588dc8ae64ff\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f2e210569f63683669641a18fa10471c\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f2e210569f63683669641a18fa10471c\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c383ebe735f2e2d1fd53c6532f1e975c\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c383ebe735f2e2d1fd53c6532f1e975c\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\5fa975974d956b9b3c8bd3bf53f05a21\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\5fa975974d956b9b3c8bd3bf53f05a21\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\4ecfb1250ce37dda189a89ded9c6a1d1\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\4ecfb1250ce37dda189a89ded9c6a1d1\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml

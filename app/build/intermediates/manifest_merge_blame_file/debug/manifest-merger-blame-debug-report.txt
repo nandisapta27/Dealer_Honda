@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.loginwithretrofit" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="27" />
+7-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+9-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:5:5-79
+9-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:5:22-76
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:6:5-67
+10-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:6:22-64
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:7:5-81
+11-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:7:22-78
+12
+13    <application
+13-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:9:5-55:19
+14        android:allowBackup="true"
+14-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:10:9-35
+15        android:debuggable="true"
+16        android:icon="@drawable/ic_launcher"
+16-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:11:9-45
+17        android:label="@string/app_name"
+17-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:12:9-41
+18        android:testOnly="true"
+19        android:theme="@style/MyAppTheme" >
+19-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:13:9-42
+20        <activity android:name="com.example.dealer_honda.SplashActivity" >
+20-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:15:9-21:20
+20-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:15:19-73
+21            <intent-filter>
+21-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:16:13-20:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:17:17-69
+22-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:17:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:19:17-77
+24-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:19:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity android:name="com.example.dealer_honda.activity.LoginActivity" />
+27-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:22:9-84
+27-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:22:19-81
+28        <activity android:name="com.example.dealer_honda.activity.RegisterUserActivity" />
+28-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:23:9-91
+28-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:23:19-88
+29        <activity android:name="com.example.dealer_honda.About" />
+29-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:24:9-67
+29-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:24:19-64
+30        <activity android:name="com.example.dealer_honda.Bill" />
+30-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:25:9-66
+30-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:25:19-63
+31        <activity android:name="com.example.dealer_honda.Chart" />
+31-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:26:9-67
+31-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:26:19-64
+32        <activity android:name="com.example.dealer_honda.Checkout" />
+32-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:27:9-70
+32-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:27:19-67
+33        <activity android:name="com.example.dealer_honda.Detail" />
+33-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:28:9-68
+33-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:28:19-65
+34        <activity android:name="com.example.dealer_honda.Detail2" />
+34-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:29:9-69
+34-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:29:19-66
+35        <activity android:name="com.example.dealer_honda.Detail3" />
+35-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:30:9-69
+35-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:30:19-66
+36        <activity android:name="com.example.dealer_honda.Detail4" />
+36-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:31:9-69
+36-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:31:19-66
+37        <activity android:name="com.example.dealer_honda.Detail5" />
+37-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:32:9-69
+37-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:32:19-66
+38        <activity android:name="com.example.dealer_honda.Detail6" />
+38-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:33:9-69
+38-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:33:19-66
+39        <activity android:name="com.example.dealer_honda.Detail7" />
+39-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:34:9-69
+39-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:34:19-66
+40        <activity android:name="com.example.dealer_honda.Detail8" />
+40-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:35:9-69
+40-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:35:19-66
+41        <activity android:name="com.example.dealer_honda.Detail9" />
+41-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:36:9-69
+41-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:36:19-66
+42        <activity android:name="com.example.dealer_honda.Detail10" />
+42-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:37:9-70
+42-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:37:19-67
+43        <activity android:name="com.example.dealer_honda.Detail11" />
+43-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:38:9-70
+43-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:38:19-67
+44        <activity android:name="com.example.dealer_honda.Detail12" />
+44-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:39:9-70
+44-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:39:19-67
+45        <activity android:name="com.example.dealer_honda.Detail13" />
+45-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:40:9-70
+45-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:40:19-67
+46        <activity android:name="com.example.dealer_honda.Detail14" />
+46-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:41:9-70
+46-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:41:19-67
+47        <activity android:name="com.example.dealer_honda.Detail15" />
+47-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:42:9-70
+47-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:42:19-67
+48        <activity android:name="com.example.dealer_honda.Detail16" />
+48-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:43:9-70
+48-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:43:19-67
+49        <activity android:name="com.example.dealer_honda.Detail17" />
+49-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:44:9-70
+49-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:44:19-67
+50        <activity android:name="com.example.dealer_honda.Detail18" />
+50-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:45:9-70
+50-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:45:19-67
+51        <activity android:name="com.example.dealer_honda.Detail19" />
+51-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:46:9-70
+51-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:46:19-67
+52        <activity android:name="com.example.dealer_honda.Detail20" />
+52-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:47:9-70
+52-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:47:19-67
+53        <activity android:name="com.example.dealer_honda.Profile" />
+53-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:48:9-69
+53-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:48:19-66
+54        <activity android:name="com.example.dealer_honda.MainActivity" />
+54-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:49:9-74
+54-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:49:19-71
+55        <activity android:name="com.example.dealer_honda.Galery" />
+55-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:50:9-68
+55-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:50:19-65
+56        <activity android:name="com.example.dealer_honda.PembelianMotor" />
+56-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:51:9-76
+56-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:51:19-73
+57        <activity android:name="com.example.dealer_honda.Billl" />
+57-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:52:9-67
+57-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:52:19-64
+58        <activity android:name="com.example.dealer_honda.EditPembelian" />
+58-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:53:9-75
+58-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:53:19-72
+59        <activity android:name="com.example.dealer_honda.DetailPembelian" />
+59-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:54:9-86
+59-->C:\Users\Dell\Music\Dealer_Honda\app\src\main\AndroidManifest.xml:54:19-74
+60    </application>
+61
+62</manifest>

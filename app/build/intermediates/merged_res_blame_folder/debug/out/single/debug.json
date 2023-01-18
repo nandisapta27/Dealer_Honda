@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail2.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail2.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_strip1.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_strip1.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_part_strip.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_part_strip.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_part1.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_part1.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail15.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail15.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar10.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar10.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_login.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_about.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_logo.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_logo.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar17.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar17.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_pcx155.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/pcx155.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_astramotor.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/astramotor.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_fb.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/fb.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_honda.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/honda.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/anim_bottom_up.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/anim/bottom_up.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_strip2.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_strip2.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_sun_middle.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/sun_middle.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail16.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail16.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_selector_button.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/selector_button.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_instagramm.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/instagramm.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar3.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar3.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_edit.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail9.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail9.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_facebookk.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/facebookk.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_logohonda.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/logohonda.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/anim_fade_in.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dealer_honda.app-pngs-7:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/menu_menu_drawer.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail17.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail17.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_part3.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_part3.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_profile.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar12.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar12.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail4.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail4.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_round_btn.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/round_btn.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_galery.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_galery.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar1.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar1.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_dealer.jpeg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/dealer.jpeg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.dealer_honda.app-pngs-7:/drawable-hdpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar20.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar20.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar4.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar4.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/anim_slide_up.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_view_user.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/view_user.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_shopbag.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/shopbag.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_logosepeda.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/logosepeda.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_about.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/about.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_bill.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_bill.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar9.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar9.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_browsur.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/browsur.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail14.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail14.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail7.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail7.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar18.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar18.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar15.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar15.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_fragment_user_details.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/fragment_user_details.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_logomotor.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/logomotor.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_reset_password.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/reset_password.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_sc2.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/sc2.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar6.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar6.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_checkout.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail19.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail19.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_camera.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/camera.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_logout.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/logout.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_camera.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/anim_slide_down.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_logoprofile.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/logoprofile.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail6.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail6.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_beat.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/beat.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_main.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dealer_honda.app-pngs-7:/drawable-hdpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar14.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar14.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail11.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail11.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail_pembelian.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail_pembelian.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar7.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar7.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_splash.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar13.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar13.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_list.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/list.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail18.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail18.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_cicle.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_cicle.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail5.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail5.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.dealer_honda.app-pngs-7:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_item_list_user.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/item_list_user.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_header_navigation_drawer.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/header_navigation_drawer.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail12.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail12.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_ui_part1_reverse.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/ui_part1_reverse.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_product.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/product.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_filee.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/filee.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-xxhdpi_sun_ray.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-xxhdpi/sun_ray.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_fragment_change_password.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_fragment_view_user.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/fragment_view_user.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_billl.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_billl.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_edit_pembelian.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_edit_pembelian.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-mdpi_profile.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar8.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar8.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar16.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar16.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_selector_button.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/selector_button.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_register.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_onehearth.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/onehearth.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_konfir.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/konfir.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_welcome.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail13.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail13.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_boy.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/boy.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar19.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar19.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_hrga.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/hrga.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail8.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail8.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail3.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail3.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_fragment_edit_profile.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_sc.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/sc.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_pembelian_motor.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_pembelian_motor.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail20.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail20.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar2.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar2.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar11.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar11.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_pcx.jpg.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/pcx.jpg"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_logo.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_chart.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_chart.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable-hdpi_wa.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable-hdpi/wa.png"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/layout_activity_detail10.xml.flat",
+        "source": "com.example.dealer_honda.app-main-14:/layout/activity_detail10.xml"
+    },
+    {
+        "merged": "com.example.dealer_honda.app-merged_res-12:/drawable_gambar5.png.flat",
+        "source": "com.example.dealer_honda.app-main-14:/drawable/gambar5.png"
+    }
+]
